@@ -1,0 +1,4 @@
+- Las bases xlsx son independiente.
+- La notebook propia se trabajó en Google Colab y llama a los archivos xlsx desde una carpeta drive.
+- La notebook que es una versión para los profesores, levanta los xlsx desde desde un directorio local, donde se suban esos archivos (modificar).
+- La versión que trabaja con las bases locales, tiene modificaciones en el armado de algunos gráficos.
